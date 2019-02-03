@@ -13,12 +13,14 @@
 + Create image carousel
 + Set in `tabBar` a `badgeValue`
 
-+ Using the `Dark Sky API`
++ The Details Tab
+
 ![](gifs/Details.gif)
 
 ---
 
-+ Using the `Dark Sky API`
++ The Cart
+
 ![](gifs/Cart.gif)
 
 ---
