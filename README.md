@@ -12,7 +12,7 @@
 + Configure PageControl
 + Create image carousel
 + Set in `tabBar` a `badgeValue`
-
+---
 + The Details Tab
 
 ![](gifs/Details.gif)
